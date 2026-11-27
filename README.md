@@ -6,13 +6,15 @@ A RESTful backend for managing products, stock operations, and inventory reports
 
 **Node.js · Express.js · MongoDB · Mongoose**
 
+Developed by **Anish Kumar Jha** · Roll No. 2501010273
+
 </div>
 
 ---
 
 ## Overview
 
-Developed for **Assignment 3 – Web Development III (Unit 3)**, this project provides APIs for product management, inventory tracking, stock operations, filtering, sorting, pagination, and inventory reports.
+Developed by **Anish Kumar Jha (Roll No. 2501010273)** for **Assignment 3 – Web Development III (Unit 3)**, this project provides APIs for product management, inventory tracking, stock operations, filtering, sorting, pagination, and inventory reports.
 
 ## Technology Stack
 
@@ -41,7 +43,7 @@ Developed for **Assignment 3 – Web Development III (Unit 3)**, this project pr
 ## Project Structure
 
 ```text
-inventory-management-system/
+inventory-management/
 ├── config/
 ├── controllers/
 ├── middleware/
@@ -67,7 +69,7 @@ inventory-management-system/
 
 ```bash
 git clone https://github.com/Svn8efx/inventory-management
-cd inventory-management-system
+cd inventory-management
 ```
 
 ### 2. Install dependencies
@@ -209,7 +211,7 @@ The default low-stock threshold is configured through `LOW_STOCK_THRESHOLD`, or 
 
 ## Postman API Testing
 
-The API was tested using Postman. The screenshots below show the requests and responses for the main operations and test cases.
+The API was tested by **Anish Kumar Jha** using Postman. The screenshots below show the requests and responses for the main operations and test cases.
 
 ### Product Management
 
@@ -332,10 +334,16 @@ The API was tested using Postman. The screenshots below show the requests and re
 
 ---
 
+## Author
+
+**Anish Kumar Jha**
+B.Tech (2nd Year), K.R. Mangalam University
+GitHub: [@Svn8efx](https://github.com/Svn8efx)
+
 ## Submission Details
 
 | | |
 |---|---|
-| **Submitted by** | Anish kumar jha |
+| **Submitted by** | Anish Kumar Jha |
 | **Roll number** | 2501010273 |
 | **Assignment** | Web Development III – Assignment 3 |
